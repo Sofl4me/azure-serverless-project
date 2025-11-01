@@ -36,4 +36,4 @@ Azure Blob Storage
 Pillow (traitement d'images)
 
 👤 Auteur
-Sonny - M2 DevOps IPI Paris (2025)
+Sonny - M2 DevOps SUP DE VINCI (2025)
