@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.python_packages/
+
+# Azure
+.deployment-info
+local.settings.json
+*.log
+.funcignore
+
+# Environnement
+.env
+.env.local
+
+# Fichiers temporaires
+*.deb
+test-images/
+downloaded-results/
+azure-results-*/
+
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/tfplan
+terraform/.terraform.lock.hcl
+
+# Documentation temporaire
+RAPPORT_SUCCES.md
+DOCUMENTATION.md
+notes/
+
+# IDE
+.vscode/
+.idea/
+.env

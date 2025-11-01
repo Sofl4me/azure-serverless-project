@@ -1,0 +1,11 @@
+# Azure Functions Core
+azure-functions==1.18.0
+
+# Azure Storage
+azure-storage-blob==12.19.0
+
+# Image Processing
+Pillow==10.3.0
+
+# Monitoring (optionnel)
+opencensus-ext-azure==1.1.13
