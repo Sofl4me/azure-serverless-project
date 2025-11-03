@@ -7,7 +7,7 @@ Documentation technique du projet de traitement d'images serverless sur Azure.
 1. [Architecture](./architecture.md) - Vue d'ensemble de l'architecture
 2. [Infrastructure](./infrastructure.md) - Ressources Azure déployées
 3. [Deployment](./deployment.md) - Guide de déploiement
-4. [Troubleshooting](./troubleshooting.md) - Résolution de problèmes
+
 
 ---
 
